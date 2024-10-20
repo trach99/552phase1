@@ -30,9 +30,9 @@ CLA_adder_4 idut4(.a(a[3:0]),.b(b[3:0]),.sum(sum_temp[3:0]),.ovfl(error_4bit[0])
 assign error = |error_4bit;
 
 //saturate each sub additions results
-assign sum[15:12] = error_4bit[3] ? (cout[3] ? 4'hF : 4'h7) : sum_temp[15:12];
-assign sum[11:8] = error_4bit[2] ? (cout[2] ? 4'hF : 4'h7) : sum_temp[11:8];
-assign sum[7:4] = error_4bit[1] ? (cout[1] ? 4'hF : 4'h7) : sum_temp[7:4];
-assign sum[3:0] = error_4bit[0] ? (cout[0] ? 4'hF : 4'h7) : sum_temp[3:0];
+assign [15:12]sum = error_4bit[3] ? (cout[3] ? 4'hF : 4'h7) : sum_temp[15:12];
+assign [11:8]sum = error_4bit[2] ? (cout[2] ? 4'hF : 4'h7) : sum_temp[11:8];
+assign [7:4]sum = error_4bit[1] ? (cout[1] ? 4'hF : 4'h7) : sum_temp[7:4];
+assign [3:0]sum = error_4bit[0] ? (cout[0] ? 4'hF : 4'h7) : sum_temp[3:0];
 
 endmodule

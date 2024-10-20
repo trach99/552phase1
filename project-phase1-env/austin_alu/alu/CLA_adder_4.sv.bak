@@ -11,7 +11,7 @@ module CLA_adder_4 (
 
 wire [3:0] p;
 wire [3:0] g;
-wire [3:0] carries;
+wire [2:0] carries;
 
 //bitwise sum
 assign p[0] = a[0] | b[0];
@@ -45,6 +45,6 @@ fa add_4(.a(a[3]),.b(b[3]),.c_in(carries[2]),.sum(sum[3]),.c_out());
 assign ovfl = (b[3] ~^ a[3]) & (sum[3] ^ a[3]);
 
 //carry out:
-assign cout = carries[3];
+//assign cout = carries[3];
 
 endmodule

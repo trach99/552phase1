@@ -12,12 +12,13 @@ wire [15:0] shift_out;
 wire [15:0] Diff, PADDSB;
 wire [15:0] Exor;
 wire [15:0] Red;
-wire OvflAdd,OvflSub;
+wire OvflAdd,OvflSub,PADDSB_error;
 
-addsub add(.a(ALU_In1), .b(ALU_In2), .sum(Sum), .ovfl(OvflAdd), .sub(1'b0));
-addsub sub(.a(ALU_In1), .b(ALU_In2), .sum(Diff), .ovfl(OvflSub), .sub(1'b1));
-red redUnit(.a(ALU_In1), .b(ALU_In2), .sum(Red));
-paddsb paddsb(.Sum(PADDSB), .A(ALU_In1), .B(ALU_In2));
+addsub_16bit add_dut(.a(ALU_In1), .b(ALU_In2), .sum(Sum), .ovfl(OvflAdd), .c_in(1'b0));
+addsub_16bit sub_dut(.a(ALU_In1), .b(ALU_In2), .sum(Diff), .ovfl(OvflSub), .c_in(1'b1));
+red red_dut(.a(ALU_In1), .b(ALU_In2), .sumfinal(Red));
+psa_16bit paddsb_dut(.sum(PADDSB), .a(ALU_In1), .b(ALU_In2), .error(PADDSB_error));
+
 shifter shifter(.opcode(Opcode[1:0]), .result(shift_out), .a(ALU_In1), .b(ALU_In2));
 
 assign Exor =  ALU_In1 ^ ALU_In2;

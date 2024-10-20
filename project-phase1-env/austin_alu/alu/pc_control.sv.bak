@@ -16,7 +16,7 @@ wire condition_met; /*result of branching condition evaluation*/
 /*adding 2 to the current address*/
 addsub_16bit add2(
     .a(curr_addr),
-    .b(4'h2),
+    .b(4'h0002),
     .c_in(1'b0),
     .sum(curr_addr_add2),
     .ovfl()

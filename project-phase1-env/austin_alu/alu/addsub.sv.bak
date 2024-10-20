@@ -31,8 +31,8 @@ CLA_adder_4 idut0(
     .sum(sum_temp[3:0]),
     .ovfl(),
     .cout(),
-    .TG(tg[0]),
-    .TP(tp[0])
+    .TG(tg(0)),
+    .TP(tp(0))
 );
 
 
@@ -43,8 +43,8 @@ CLA_adder_4 idut1(
     .sum(sum_temp[7:4]),
     .ovfl(),
     .cout(),
-    .TG(tg[1]),
-    .TP(tp[1])
+    .TG(tg(1)),
+    .TP(tp(1))
 );
 CLA_adder_4 idut2(
     .a(a[11:8]),
@@ -53,8 +53,8 @@ CLA_adder_4 idut2(
     .sum(sum_temp[11:8]),
     .ovfl(),
     .cout(),
-    .TG(tg[2]),
-    .TP(tp[2])
+    .TG(tg(2)),
+    .TP(tp(2))
 );
 CLA_adder_4 idut3(
     .a(a[15:12]),
@@ -63,8 +63,8 @@ CLA_adder_4 idut3(
     .sum(sum_temp[15:12]),
     .ovfl(),
     .cout(),
-    .TG(tg[3]),
-    .TP(tp[3])
+    .TG(tg(3)),
+    .TP(tp(3))
 );
 
 assign ovfl = (b[15] ~^ a[15]) & (sum[15] ^ a[15]);

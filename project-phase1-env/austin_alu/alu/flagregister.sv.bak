@@ -3,7 +3,7 @@ module flagregister (
     input rst,
     input [2:0]d,
     input [2:0]e,
-    output [2:0]q
+    output [2:0]q,
 );
 
 /*****************************************

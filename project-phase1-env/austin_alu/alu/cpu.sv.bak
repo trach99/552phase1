@@ -49,7 +49,6 @@ wire [15:0] ALUresult;
 wire [15:0] ALU_input1;
 wire [15:0] ALU_input2;
 
-
 wire [3:0]desReg; /*changes based on Register or Memory Instructions*/
 
 /*****************************************

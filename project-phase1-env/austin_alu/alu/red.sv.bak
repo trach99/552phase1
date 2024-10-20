@@ -102,7 +102,7 @@ CLA_adder_4 sum_2(
 );
 
 assign sumfinal[8] = temp_s[0]; // result of all 3 carries (suma, sumb and carry from (suma + sumb))
-assign sumfinal[15:9] = {7{temp_s[1]}}; //sign extending 9th index bit(addition of sign extension bits of suma, sumb )
+assign sumfinal[15:9] = {7{temp_s[1]}}; //sign extending 9th bit(addition of sign extension bits of suma, sumb )
 //--final-sum ends----//
 
 endmodule

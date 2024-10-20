@@ -1,0 +1,144 @@
+/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_instr.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_instr.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module memory1c_instr
+
+Top level modules:
+	memory1c_instr
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/RegisterFile.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/RegisterFile.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/Register.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/Register.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/addsub.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/addsub.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module addsub_16bit
+
+Top level modules:
+	addsub_16bit
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_data.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_data.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module memory1c_data
+
+Top level modules:
+	memory1c_data
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/shifter.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/shifter.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/WriteDecoder_4_16.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/WriteDecoder_4_16.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module WriteDecoder_4_16
+
+Top level modules:
+	WriteDecoder_4_16
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/fa.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/fa.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module fa
+
+Top level modules:
+	fa
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/ReadDecoder_4_16.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/ReadDecoder_4_16.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module ReadDecoder_4_16
+
+Top level modules:
+	ReadDecoder_4_16
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CLA_adder_4.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CLA_adder_4.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module CLA_adder_4
+
+Top level modules:
+	CLA_adder_4
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_control.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_control.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module pc_control
+
+Top level modules:
+	pc_control
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/red.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/red.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module red
+
+Top level modules:
+	red
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/BitCell.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/BitCell.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module BitCell
+
+Top level modules:
+	BitCell
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CPU_control.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CPU_control.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module CPU_control
+
+Top level modules:
+	CPU_control
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/dff.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/dff.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module psa_16bit
+
+Top level modules:
+	psa_16bit
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.v {1 {vlog -work work -vopt -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.v
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_register.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_register.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module pc_register
+
+Top level modules:
+	pc_register
+
+} {} {}} /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/flagregister.sv {1 {vlog -work work -vopt -sv -stats=none /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/flagregister.sv
+QuestaSim vlog 2023.2_1 Compiler 2023.05 May 12 2023
+-- Compiling module flagregister
+
+Top level modules:
+	flagregister
+
+} {} {}}
