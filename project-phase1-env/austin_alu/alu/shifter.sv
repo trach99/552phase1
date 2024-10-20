@@ -22,7 +22,7 @@ typedef enum logic[1:0] {SLL, SRA, ROR} opcode_t;
 opcode_t op;
 assign op = opcode_t'(opcode);
 
-always_comb begin
+always @(*) begin
     case (op)
         SLL: begin
             sr_0 = b[0] ? a << 1 : a;

@@ -5,7 +5,7 @@ output halt, RegDst, ALUSrc, MemRead, MemWrite, MemtoReg, RegWrite, Lower, Highe
 
 reg r_hlt, r_RegDst, r_ALUSrc, r_MemRead, r_MemWrite, r_MemtoReg, r_RegWrite, r_Lower, r_Higher, r_BEn, r_Br, r_PCS;
 always @(*) begin
-  casex (opc)
+  case (opc) inside
   4'b00??: begin        //ADD, SUB, XOR, RED
     assign r_hlt = 0;
     assign r_RegDst = 1;
