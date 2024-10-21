@@ -56,13 +56,13 @@ module phase1_cpu_tb ();
   // Assign internal signals to top level wires.
   // Edit the example below. You must change the signal names on the right hand side to match your naming convention.
   wire [15:0] Inst = DUT.instr;  // The 16 bit instruction word.
-  wire RegWrite = DUT.write_reg;  // Whether or not register file is being written
-  wire [3:0] WriteRegister = DUT.dst_reg;  // What 4-bit register number is written
-  wire [15:0] WriteData = DUT.dst_data;  // 16-bit Data being written to the registerfile.
-  wire MemWrite = (DUT.data_mem.enable & DUT.data_mem.wr);  // Memory is being Written
-  wire MemRead = DUT.data_mem.data_out;  // Memory is being Read
-  wire [15:0] MemAddress = DUT.data_mem.addr;  // 16-bit memory address being accessed
-  wire [15:0] MemData = DUT.data_mem.data_in;  // Data written to Memory on memory writes.
+  wire RegWrite = DUT.RegWrite;  // Whether or not register file is being written
+  wire [3:0] WriteRegister = DUT.desReg;  // What 4-bit register number is written
+  wire [15:0] WriteData = DUT.reg_destdata;  // 16-bit Data being written to the registerfile.
+  wire MemWrite = (DUT.memdut.enable & DUT.memdut.wr);  // Memory is being Written
+  wire MemRead = DUT.memdut.enable;  // Memory is being Read
+  wire [15:0] MemAddress = DUT.memdut.addr;  // 16-bit memory address being accessed
+  wire [15:0] MemData = DUT.memdut.data_in;  // Data written to Memory on memory writes.
 
   /* Add anything else you want here */
 
@@ -92,8 +92,12 @@ module phase1_cpu_tb ();
 
         $fclose(trace_file);
         $fclose(sim_log_file);
+        
 
-				$writememh("dumpfile_data.img", DUT.data_mem.mem);
+        $display("Reachede here");
+				$writememh("dumpfile_data.img", DUT.memdut.mem);
+        $display("final destionation");
+        
         $finish;
       end else begin
         if (MemWrite) begin

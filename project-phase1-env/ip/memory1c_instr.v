@@ -44,7 +44,7 @@ module memory1c_instr #(
     input rst
 );
 
-  localparam MemSize = 2 ** (AWIDTH - 1);
+  localparam MemSize = 2 ** (AWIDTH - 1); //2^15 elements array,lsb[0] is ignored because 2-byte aligned
   reg [DWIDTH-1:0] mem[0:MemSize-1];
 
   assign data_out = (enable & (~wr)) ? {mem[addr[AWIDTH-1:1]]} : {DWIDTH{1'b0}};  //Read

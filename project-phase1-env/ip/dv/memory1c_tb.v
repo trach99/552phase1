@@ -4,6 +4,14 @@ module memory1c_tb ();
   reg [15:0] shadow[0:32767];
   reg clk;
   integer clk_cnt = 0;
+
+  wire [15:0] data_out;
+  reg  [15:0] data_in;
+  reg  [15:0] addr;
+  reg         enable;
+  reg         wr;
+  reg         rst;
+  
   initial begin
     clk = 1'b0;
     forever #5 clk = ~clk;
@@ -12,13 +20,6 @@ module memory1c_tb ();
   always @(posedge clk) begin
     clk_cnt <= rst ? 0 : clk_cnt + 1;
   end
-
-  wire [15:0] data_out;
-  reg  [15:0] data_in;
-  reg  [15:0] addr;
-  reg         enable;
-  reg         wr;
-  reg         rst;
 
   initial
     $monitor(
@@ -73,7 +74,7 @@ module memory1c_tb ();
     $finish;
   end
 
-  memory1c #(
+  memory1c_data #(
       .DWIDTH(16),
       .AWIDTH(16)
   ) mem (
