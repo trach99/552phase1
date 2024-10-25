@@ -1,0 +1,67 @@
+# //  Questa Sim
+# //  Version 2023.2_1 linux May 12 2023
+# //
+# //  Copyright 1991-2023 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  QuestaSim and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# Loading project HW_5
+# reading /cae/apps/data/mentor-2023/questasim/linux/../modelsim.ini
+# Loading project project_phase1
+# Compile of addsub.sv failed with 10 errors.
+# Compile of alu.sv was successful.
+# Compile of alu.v was successful.
+# Compile of BitCell.v was successful.
+# Compile of CLA_adder_4.sv failed with 1 errors.
+# Compile of cpu.sv failed with 2 errors.
+# Compile of CPU_control.v was successful.
+# Compile of dff.v was successful.
+# Compile of fa.sv was successful.
+# Compile of flagregister.sv failed with 1 errors.
+# Compile of memory1c_data.v was successful.
+# Compile of memory1c_instr.v was successful.
+# Compile of paddsb.sv failed with 1 errors.
+# Compile of pc_control.sv was successful with warnings.
+# Compile of pc_register.sv was successful.
+# Compile of ReadDecoder_4_16.v was successful.
+# Compile of red.sv failed with 1 errors.
+# Compile of Register.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of shifter.sv failed with 2 errors.
+# Compile of WriteDecoder_4_16.v was successful.
+# 21 compiles, 7 failed with 18 errors.
+# Compile of addsub.sv was successful.
+# Compile of shifter.sv failed with 1 errors.
+# Compile of shifter.sv was successful with warnings.
+# Compile of shifter.sv was successful.
+# Compile of cpu.sv failed with 2 errors.
+# Compile of cpu.sv failed with 1 errors.
+# Error opening /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv
+# Path name '/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv' doesn't exist.
+# Error opening /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv
+# Path name '/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv' doesn't exist.
+# Compile of cpu.sv failed with 4 errors.
+# Compile of cpu.sv was successful.
+.main clear .mai
+# Compile of CLA_adder_4.sv failed with 1 errors.
+# Compile of CLA_adder_4.sv was successful.
+# Compile of red.sv was successful.
+# Compile of pc_control.sv was successful.
+# Compile of paddsb.sv failed with 4 errors.
+# Compile of paddsb.sv failed with 1 errors.
+# Compile of paddsb.sv failed with 1 errors.
+# Error opening /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv
+# Path name '/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv' doesn't exist.
+# Error opening /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv
+# Path name '/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/(vlog-13069) /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv' doesn't exist.
+# Compile of paddsb.sv was successful.
+# Compile of flagregister.sv was successful.
+.main clear .mai
+# Compile of alu.v was successful.

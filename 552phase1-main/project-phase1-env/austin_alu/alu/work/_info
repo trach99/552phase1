@@ -1,0 +1,498 @@
+m255
+K4
+z2
+!s11f vlog 2023.2_1 2023.05, May 12 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/filespace/a/ajames25/bubunut/ECE-551_Digtial_Design/HW/3/5/Ex10
+vaddsub_16bit
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/addsub.sv
+Z0 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1729388052
+!i10b 1
+!s100 >;L^]WHamkcozSej47C7X0
+I300a:T[W5?Qa9I_I>C:iJ0
+S1
+Z1 d/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu
+w1729388047
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/addsub.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/addsub.sv
+!i122 13
+L0 1 75
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OE;L;2023.2_1;77
+r1
+!s85 0
+31
+!s108 1729388052.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/addsub.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/addsub.sv|
+!i113 0
+Z4 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z5 tCvgOpt 0
+valu
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.v
+!s110 1729390117
+!i10b 1
+!s100 dJFazER7`IMeo]RZA3<oQ0
+IZ4DboEE78HTFD]0_69Fj61
+R1
+w1729390076
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.v
+!i122 22
+L0 1 79
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729390117.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/alu.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vBitCell
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/BitCell.v
+Z7 !s110 1729387915
+!i10b 1
+!s100 MfH0:UN2Y64mig710=8Y;1
+Idk=;e6X2E42ObSnX@B5PE1
+R1
+w1729309060
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/BitCell.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/BitCell.v
+!i122 1
+L0 1 13
+R2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1729387915.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/BitCell.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/BitCell.v|
+!i113 0
+R6
+R5
+n@bit@cell
+vCLA_adder_4
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CLA_adder_4.sv
+R0
+!s110 1729388966
+!i10b 1
+!s100 7n5N^2=JWDaDXU4DO<8Lo3
+Iid302gAo@fU1CM@cN<=1W3
+S1
+R1
+w1729388963
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CLA_adder_4.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CLA_adder_4.sv
+!i122 17
+L0 1 50
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729388966.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CLA_adder_4.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CLA_adder_4.sv|
+!i113 0
+R4
+R5
+n@c@l@a_adder_4
+vcpu
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv
+R0
+!s110 1729388690
+!i10b 1
+!s100 0GfZM<gcMCE1C71<8ICiA3
+Ifj5ACWZPO?cneDk4gjC=L3
+S1
+R1
+w1729388680
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv
+!i122 16
+L0 1 209
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729388690.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/cpu.sv|
+!i113 0
+R4
+R5
+vCPU_control
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CPU_control.v
+R7
+!i10b 1
+!s100 F0oYXZ3HK;^TZX49bbO]g0
+I0izlHBNjk?=26CYzfQPVH0
+R1
+w1729385055
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CPU_control.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CPU_control.v
+!i122 2
+L0 1 193
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CPU_control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/CPU_control.v|
+!i113 0
+R6
+R5
+n@c@p@u_control
+vdff
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/dff.v
+R7
+!i10b 1
+!s100 JX@nWMjA7zAgEm@lKX_V]1
+IOgU6[:_>e9=g=h@1heEAm1
+R1
+w1729309180
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/dff.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/dff.v
+!i122 3
+L0 2 13
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/dff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/dff.v|
+!i113 0
+R6
+R5
+vfa
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/fa.sv
+R0
+R7
+!i10b 1
+!s100 DBO3hUQa2mzh3]KRJ2kmI2
+I85D1@Qe8]0@]1KGCP;OoF2
+S1
+R1
+w1729259202
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/fa.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/fa.sv
+!i122 4
+L0 1 17
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/fa.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/fa.sv|
+!i113 0
+R4
+R5
+vflagregister
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/flagregister.sv
+R0
+!s110 1729389753
+!i10b 1
+!s100 cOAB2UnSZljPVQPFWCEg;3
+I=4^=8fH:4aGn9H@zbifVD1
+S1
+R1
+w1729389748
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/flagregister.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/flagregister.sv
+!i122 21
+Z9 L0 1 38
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729389753.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/flagregister.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/flagregister.sv|
+!i113 0
+R4
+R5
+vmemory1c_data
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_data.v
+R7
+!i10b 1
+!s100 =3C?CE34nHz]DSI6gmkLk0
+IOV``KG4iK5^Db9U>5o=6l3
+R1
+w1729340513
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_data.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_data.v
+!i122 5
+Z10 L0 34 42
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_data.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_data.v|
+!i113 0
+R6
+R5
+vmemory1c_instr
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_instr.v
+R7
+!i10b 1
+!s100 MBhWIGJB]IkV8]`TLWlH83
+IL=hlFI>4cYPe9HR`7j_:T2
+R1
+w1729356476
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_instr.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_instr.v
+!i122 6
+R10
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_instr.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/memory1c_instr.v|
+!i113 0
+R6
+R5
+vpc_control
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_control.sv
+R0
+!s110 1729389276
+!i10b 1
+!s100 [5081hn1LAm8z>9LkKHoB0
+IA@JMEi=M04P=NLFM=f_hW1
+S1
+R1
+w1729389269
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_control.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_control.sv
+!i122 19
+L0 1 81
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729389276.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_control.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_control.sv|
+!i113 0
+R4
+R5
+vpc_register
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_register.sv
+R0
+Z11 !s110 1729387916
+!i10b 1
+!s100 <k^52@?VlK49NgR2]o?:X3
+IYS[Xi^_l6AN`>OO[hoK=a3
+S1
+R1
+w1729354380
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_register.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_register.sv
+!i122 8
+L0 1 31
+R2
+R3
+r1
+!s85 0
+31
+Z12 !s108 1729387916.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_register.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/pc_register.sv|
+!i113 0
+R4
+R5
+vpsa_16bit
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv
+R0
+!s110 1729389718
+!i10b 1
+!s100 Jj^bYG9z2?maAR[WGW`fM2
+IhQN<cUFIgddZHgk<k@Id03
+S1
+R1
+w1729389710
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv
+!i122 20
+R9
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729389718.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/paddsb.sv|
+!i113 0
+R4
+R5
+vReadDecoder_4_16
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/ReadDecoder_4_16.v
+R11
+!i10b 1
+!s100 O4NEXYN[mjOC_[7C0lXl82
+IRh;Dc3h1W68i3kQc2dmdN2
+R1
+w1729309333
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/ReadDecoder_4_16.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/ReadDecoder_4_16.v
+!i122 9
+L0 1 22
+R2
+R3
+r1
+!s85 0
+31
+R12
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/ReadDecoder_4_16.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/ReadDecoder_4_16.v|
+!i113 0
+R6
+R5
+n@read@decoder_4_16
+vred
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/red.sv
+R0
+!s110 1729389247
+!i10b 1
+!s100 =:FTLl=53dFnlEbA9mWRn3
+IZC7cmTzbU>BnOieI`3QE^0
+S1
+R1
+w1729389243
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/red.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/red.sv
+!i122 18
+L0 1 108
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729389247.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/red.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/red.sv|
+!i113 0
+R4
+R5
+vRegister
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/Register.v
+R11
+!i10b 1
+!s100 NU:cRH6U5VB`>Tz^OaDRL3
+InmAZ1MKF>h=@Vcm8[D>SA0
+R1
+w1729309345
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/Register.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/Register.v
+!i122 10
+Z13 L0 1 24
+R2
+R3
+r1
+!s85 0
+31
+R12
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/Register.v|
+!i113 0
+R6
+R5
+n@register
+vRegisterFile
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/RegisterFile.v
+R11
+!i10b 1
+!s100 [OFOkMd_CzP9[H8STXJ?H1
+IzZ5=e1S84P63EO5E;a2H22
+R1
+w1729309354
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/RegisterFile.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/RegisterFile.v
+!i122 11
+L0 1 39
+R2
+R3
+r1
+!s85 0
+31
+R12
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/RegisterFile.v|
+!i113 0
+R6
+R5
+n@register@file
+vshifter
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/shifter.sv
+R0
+!s110 1729388299
+!i10b 1
+!s100 4S@6TeCV9a<P[N98j3TZ;1
+Il@K>eY7LZR>f8I9zl[i^X0
+S1
+R1
+w1729388292
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/shifter.sv
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/shifter.sv
+!i122 15
+L0 1 52
+R2
+R3
+r1
+!s85 0
+31
+!s108 1729388299.000000
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/shifter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/shifter.sv|
+!i113 0
+R4
+R5
+vWriteDecoder_4_16
+2/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/WriteDecoder_4_16.v
+R11
+!i10b 1
+!s100 >hd9TMZaY_<dbj@GTa3153
+IQ1B9W;d2oazZT8EBizeNi2
+R1
+w1729309625
+8/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/WriteDecoder_4_16.v
+F/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/WriteDecoder_4_16.v
+!i122 12
+R13
+R2
+R3
+r1
+!s85 0
+31
+R12
+!s107 /filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/WriteDecoder_4_16.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|/filespace/a/ajames25/ECE552/GIT/552phase1/project-phase1-env/austin_alu/alu/WriteDecoder_4_16.v|
+!i113 0
+R6
+R5
+n@write@decoder_4_16
