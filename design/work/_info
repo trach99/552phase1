@@ -1,0 +1,1467 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vAdder_16bit
+!s110 1734307453
+!i10b 1
+!s100 Hz;1@1ml=AC9j18?U<Fhm3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBmNE1gSJJ^:YQ]hKG;0hk1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design
+Z3 w1734245079
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Adder.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Adder.v
+!i122 418
+Z4 L0 1 28
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1734307453.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Adder.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@adder_16bit
+vadder_1bit
+Z9 !s110 1734307454
+!i10b 1
+!s100 UDM;g3iH`6fIb22F]jSQI0
+R0
+IGBl3U9R[@WRGXZKE:^^OW3
+R1
+R2
+Z10 w1734301269
+Z11 8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/adder4bit+tb.v
+Z12 FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/adder4bit+tb.v
+!i122 419
+L0 1 12
+R5
+r1
+!s85 0
+31
+R6
+Z13 !s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/adder4bit+tb.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/adder4bit+tb.v|
+!i113 1
+R7
+R8
+vadder_4bit
+Z15 !s110 1734307455
+!i10b 1
+!s100 <eUlE<kjC>akUIP<V^mHJ1
+R0
+IoXjYSNL^:Y92]bc4bRb1H0
+R1
+R2
+Z16 w1734297848
+Z17 8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cla_16bit.v
+Z18 FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cla_16bit.v
+!i122 426
+L0 35 33
+R5
+r1
+!s85 0
+31
+Z19 !s108 1734307455.000000
+Z20 !s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cla_16bit.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cla_16bit.v|
+!i113 1
+R7
+R8
+vadder_4bit_josh
+R9
+!i10b 1
+!s100 I8_H0JPag31EANCWMD<621
+R0
+IH=[EP>ID8[LGbM0V9T00L2
+R1
+R2
+R10
+R11
+R12
+!i122 419
+L0 14 18
+R5
+r1
+!s85 0
+31
+R6
+R13
+R14
+!i113 1
+R7
+R8
+vadder_tb
+!s110 1734300996
+!i10b 1
+!s100 K@mjf7XJ9`c1gV8FIo1A[0
+R0
+IVi?H8Ll8TF:=WNf2XL3e10
+R1
+Z22 dC:/Users/austin james/Documents/iteration2/Phase3_latest
+R3
+8C:/Users/austin james/Documents/iteration2/Phase3_latest/adder4bit+tb.v
+FC:/Users/austin james/Documents/iteration2/Phase3_latest/adder4bit+tb.v
+!i122 159
+L0 33 19
+R5
+r1
+!s85 0
+31
+!s108 1734300996.000000
+!s107 C:/Users/austin james/Documents/iteration2/Phase3_latest/adder4bit+tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Documents/iteration2/Phase3_latest/adder4bit+tb.v|
+!i113 1
+R7
+R8
+vaddsub_4bit_ripple
+Z23 !s110 1734307458
+!i10b 1
+!s100 ?c>ELA[?aWh5mMQF4FIG>0
+R0
+IB`?gTM^ejAVU`d3lRd]Wi2
+R1
+R2
+R3
+Z24 8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/PADDSB.v
+Z25 FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/PADDSB.v
+!i122 437
+L0 37 24
+R5
+r1
+!s85 0
+31
+Z26 !s108 1734307458.000000
+Z27 !s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/PADDSB.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/PADDSB.v|
+!i113 1
+R7
+R8
+vALU
+R9
+!i10b 1
+!s100 ReJ]5Q]HC?MLjenoNUVUg0
+R0
+I7MR=KOcniAQnimNAlHDSX1
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/ALU.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/ALU.v
+!i122 420
+L0 3 69
+R5
+r1
+!s85 0
+31
+Z29 !s108 1734307454.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/ALU.v|
+!i113 1
+R7
+R8
+n@a@l@u
+vbase3_conv
+Z30 !s110 1734307495
+!i10b 1
+!s100 LaBoXWb0L7RDk6`13Sz<Q0
+R0
+ISe5]gjkeIX4KUBDzRAHUW1
+R1
+R2
+Z31 w1731860602
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/base3_conv.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/base3_conv.v
+!i122 451
+R4
+R5
+r1
+!s85 0
+31
+Z32 !s108 1734307495.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/base3_conv.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/base3_conv.v|
+!i113 1
+R7
+R8
+vBitCell
+Z33 !s110 1734307459
+!i10b 1
+!s100 =QO8^il:VHJQn`MGeDXbc2
+R0
+Id=VgCK7AkRWRZUFUG[fN]2
+R1
+R2
+R3
+Z34 8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/regfile.v
+Z35 FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/regfile.v
+!i122 442
+L0 88 15
+R5
+r1
+!s85 0
+31
+Z36 !s108 1734307459.000000
+Z37 !s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/regfile.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/regfile.v|
+!i113 1
+R7
+R8
+n@bit@cell
+vBlock
+Z39 !s110 1734300998
+!i10b 1
+!s100 ;B8<]MX@T5JF7Xz3[C5k<2
+R0
+IU5R9GWWO>FZQJGG<`NzJW0
+R1
+R22
+R3
+Z40 8C:/Users/austin james/Documents/iteration2/Phase3_latest/DataArray.v
+Z41 FC:/Users/austin james/Documents/iteration2/Phase3_latest/DataArray.v
+!i122 167
+L0 13 5
+R5
+r1
+!s85 0
+31
+Z42 !s108 1734300998.000000
+Z43 !s107 C:/Users/austin james/Documents/iteration2/Phase3_latest/DataArray.v|
+Z44 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Documents/iteration2/Phase3_latest/DataArray.v|
+!i113 1
+R7
+R8
+n@block
+vbranch_control
+R9
+!i10b 1
+!s100 jN3fIZ8k:@lCJkhYYXQL^2
+R0
+IHaQAzo0A@5`aMc5S5N_ho0
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/branch_control.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/branch_control.v
+!i122 421
+L0 1 38
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/branch_control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/branch_control.v|
+!i113 1
+R7
+R8
+vcache_cell
+R9
+!i10b 1
+!s100 ie5PnQj^KR3k@]g]1;lS30
+R0
+IKc4=6_SG>Hjb>0NjU7FcD0
+R1
+R2
+Z45 w1734301631
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_cell.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_cell.v
+!i122 422
+L0 1 18
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_cell.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_cell.v|
+!i113 1
+R7
+R8
+vcache_fill_FSM
+R15
+!i10b 1
+!s100 0?l9lcoYFJB7=:CBV8RV?3
+R0
+Ic;BGdfXKnZW3FG;AKMgDI1
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_miss_controller.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_miss_controller.v
+!i122 424
+L0 1 115
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_miss_controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_miss_controller.v|
+!i113 1
+R7
+R8
+ncache_fill_@f@s@m
+vcache_word
+R15
+!i10b 1
+!s100 lXM6;?[oKJJ1XjP>[0[RO3
+R0
+INkiIm@G?0fd6o>9ONO[ea3
+R1
+R2
+R45
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_word.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_word.v
+!i122 425
+Z46 L0 1 21
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_word.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cache_word.v|
+!i113 1
+R7
+R8
+vcla_16bit
+R15
+!i10b 1
+!s100 6a6AV[7:^JK@QeOjgKoCk2
+R0
+IPMd<lhAUMbi3gEGAk<UTB2
+R1
+R2
+R16
+R17
+R18
+!i122 426
+R4
+R5
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 1
+R7
+R8
+vcpu
+R15
+!i10b 1
+!s100 :cK4^B8cO`oQ[EHa^SQ]g2
+R0
+I2HYL`DUTa:6fa9RCUkgek2
+R1
+R2
+w1734297411
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cpu.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cpu.v
+!i122 427
+Z47 L0 1 263
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/cpu.v|
+!i113 1
+R7
+R8
+vcpu_ptb
+!s110 1734300353
+!i10b 1
+!s100 g`O8[i0BVEWPIdFIz_=KP3
+R0
+I`cj;D?VC1>iODlze;0g6^2
+R1
+R22
+w1734299590
+8C:/Users/austin james/Documents/iteration2/Phase3_latest/project-phase3-testbench.v
+FC:/Users/austin james/Documents/iteration2/Phase3_latest/project-phase3-testbench.v
+!i122 98
+L0 1 220
+R5
+r1
+!s85 0
+31
+!s108 1734300353.000000
+!s107 C:/Users/austin james/Documents/iteration2/Phase3_latest/project-phase3-testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Documents/iteration2/Phase3_latest/project-phase3-testbench.v|
+!i113 1
+R7
+R8
+vcpu_two
+!s110 1734302285
+!i10b 1
+!s100 @a;Mk]8BagePmf4Vh:NI42
+R0
+IfSkg[]FdeWcMIk=_ZHYUj2
+R1
+dC:/Users/austin james/Desktop/Phase3_latest
+w1734302125
+8C:/Users/austin james/Desktop/Phase3_latest/cpu_two.v
+FC:/Users/austin james/Desktop/Phase3_latest/cpu_two.v
+!i122 194
+R47
+R5
+r1
+!s85 0
+31
+!s108 1734302284.000000
+!s107 C:/Users/austin james/Desktop/Phase3_latest/cpu_two.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Phase3_latest/cpu_two.v|
+!i113 1
+R7
+R8
+vdata_memory1c
+R39
+!i10b 1
+!s100 =ZKhg8;i<W^ZKIF[6oBiR2
+R0
+ImZNWDVb]5L`EUWmdIdMUJ0
+R1
+R22
+R3
+8C:/Users/austin james/Documents/iteration2/Phase3_latest/data_memory.v
+FC:/Users/austin james/Documents/iteration2/Phase3_latest/data_memory.v
+!i122 166
+L0 31 38
+R5
+r1
+!s85 0
+31
+R42
+!s107 C:/Users/austin james/Documents/iteration2/Phase3_latest/data_memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Documents/iteration2/Phase3_latest/data_memory.v|
+!i113 1
+R7
+R8
+vdata_set
+R15
+!i10b 1
+!s100 hKLmW]Nga:9ZA7^Ce7E`Q2
+R0
+I;0]F0H0ng3mM@3ao0_iA[0
+R1
+R2
+R45
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_set.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_set.v
+!i122 428
+L0 1 22
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_set.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_set.v|
+!i113 1
+R7
+R8
+vdata_way_array
+Z48 !s110 1734307456
+!i10b 1
+!s100 4J^De>=Y1UkR`DebS98PW1
+R0
+I9L_S=ncEAH44;JP0XN3CR0
+R1
+R2
+R45
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_way_array.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_way_array.v
+!i122 429
+L0 7 19
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_way_array.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/data_way_array.v|
+!i113 1
+R7
+R8
+vDataArray
+R39
+!i10b 1
+!s100 _c;2kz]eZ674zPF`:46f?1
+R0
+If<PkPcgRf0GCfSTN_T61G3
+R1
+R22
+R3
+R40
+R41
+!i122 167
+L0 6 5
+R5
+r1
+!s85 0
+31
+R42
+R43
+R44
+!i113 1
+R7
+R8
+n@data@array
+vDCell
+R39
+!i10b 1
+!s100 X1lF^XWK9TIMOPOc9GagN0
+R0
+I8f`Umei]jG5E`>FaCejn60
+R1
+R22
+R3
+R40
+R41
+!i122 167
+L0 26 5
+R5
+r1
+!s85 0
+31
+R42
+R43
+R44
+!i113 1
+R7
+R8
+n@d@cell
+vdff
+R48
+!i10b 1
+!s100 JX@nWMjA7zAgEm@lKX_V]1
+R0
+IZSU4c<jNd50^^=n;HUzZE1
+R1
+R2
+w1734301530
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/dff.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/dff.v
+!i122 430
+L0 2 13
+R5
+r1
+!s85 0
+31
+Z49 !s108 1734307456.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/dff.v|
+!i113 1
+R7
+R8
+vdflipflop_16bit
+R23
+!i10b 1
+!s100 _Ykm7VohjaDmdf1^eDI];3
+R0
+I5fM:3eo;c0DEAl;8_cDP]1
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pc_register.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pc_register.v
+!i122 438
+L0 1 26
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pc_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pc_register.v|
+!i113 1
+R7
+R8
+vdflipflop_3bit
+R33
+!i10b 1
+!s100 h`nL>KmNi5XnfgHKn;C=m2
+R0
+I@Z5SC2fgIgHCmC@ADmJKC2
+R1
+R2
+R3
+Z50 8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pipelining.v
+Z51 FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pipelining.v
+!i122 440
+L0 15 12
+R5
+r1
+!s85 0
+31
+R26
+Z52 !s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pipelining.v|
+Z53 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/pipelining.v|
+!i113 1
+R7
+R8
+vdflipflop_4bit
+R33
+!i10b 1
+!s100 CgY9N::lJVRJV[jY>O;ko0
+R0
+IBmlJk9YN_@Wfo8Vh]iSjf2
+R1
+R2
+R3
+R50
+R51
+!i122 440
+L0 1 13
+R5
+r1
+!s85 0
+31
+R26
+R52
+R53
+!i113 1
+R7
+R8
+vDWord
+R39
+!i10b 1
+!s100 h^5RKP3N8:z^L=SzQG`U^2
+R0
+IVVF>bG<d2FKC8I9G98dh51
+R1
+R22
+R3
+R40
+R41
+!i122 167
+L0 21 3
+R5
+r1
+!s85 0
+31
+R42
+R43
+R44
+!i113 1
+R7
+R8
+n@d@word
+vEX_MEM
+R33
+!i10b 1
+!s100 4[1AZn9Y6PgLhC=am:fh43
+R0
+ISg;8QCiH^o:IiZ@M;EVdh2
+R1
+R2
+R3
+R50
+R51
+!i122 440
+L0 103 38
+R5
+r1
+!s85 0
+31
+R26
+R52
+R53
+!i113 1
+R7
+R8
+n@e@x_@m@e@m
+vFlags
+R48
+!i10b 1
+!s100 DH0G8U>EaF_4z8WY6lPgE1
+R0
+Id]^^7;W`gPl=];Yc:6A@`0
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Flags.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Flags.v
+!i122 431
+L0 1 14
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Flags.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Flags.v|
+!i113 1
+R7
+R8
+n@flags
+vforwarding_unit
+R48
+!i10b 1
+!s100 mN0n6aKh:;D]bCE5B8?]01
+R0
+IPC3QPYkMMlNTJoVA[edPN2
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/forwarding_unit.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/forwarding_unit.v
+!i122 432
+R46
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/forwarding_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/forwarding_unit.v|
+!i113 1
+R7
+R8
+vfull_rippleadder_1bit
+R23
+!i10b 1
+!s100 j0XOE6F:Je>a_h3;S4PFg2
+R0
+IQ^m3fPcngmn<:X09[`L1G2
+R1
+R2
+R3
+R24
+R25
+!i122 437
+L0 25 9
+R5
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R7
+R8
+vgen_prop
+R15
+!i10b 1
+!s100 SKh=O@8ON1gD=6JV_PN:O2
+R0
+IU@2XLK0k8LCHYMgL=j1fN2
+R1
+R2
+R16
+R17
+R18
+!i122 426
+L0 71 6
+R5
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 1
+R7
+R8
+vHDU
+R48
+!i10b 1
+!s100 `kIVohTT1[37Wf=e2]Q>J0
+R0
+IN<>6ZzEZaJ@BK4gg>3EcK3
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/HDU.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/HDU.v
+!i122 433
+L0 3 43
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/HDU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/HDU.v|
+!i113 1
+R7
+R8
+n@h@d@u
+vID_EX
+R33
+!i10b 1
+!s100 Mj5S<i<G]J6RH:WRS90l@2
+R0
+Iz`m:hAC76EKa7_fNXUkdT1
+R1
+R2
+R3
+R50
+R51
+!i122 440
+L0 56 46
+R5
+r1
+!s85 0
+31
+R26
+R52
+R53
+!i113 1
+R7
+R8
+n@i@d_@e@x
+vIF_ID
+R33
+!i10b 1
+!s100 U?4U_>I]fZ`Z8dD16I>e72
+R0
+IagA<K4RGV9:I1>dkYPlbK2
+R1
+R2
+R3
+R50
+R51
+!i122 440
+L0 28 26
+R5
+r1
+!s85 0
+31
+R26
+R52
+R53
+!i113 1
+R7
+R8
+n@i@f_@i@d
+vMBlock
+Z54 !s110 1734300999
+!i10b 1
+!s100 77B2Th:c]IYnK0KRKLNzg1
+R0
+I[8Rj9KYD4_8deSWE`JCTA1
+R1
+R22
+R3
+Z55 8C:/Users/austin james/Documents/iteration2/Phase3_latest/MetaData.v
+Z56 FC:/Users/austin james/Documents/iteration2/Phase3_latest/MetaData.v
+!i122 173
+L0 13 4
+R5
+r1
+!s85 0
+31
+Z57 !s108 1734300999.000000
+Z58 !s107 C:/Users/austin james/Documents/iteration2/Phase3_latest/MetaData.v|
+Z59 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Documents/iteration2/Phase3_latest/MetaData.v|
+!i113 1
+R7
+R8
+n@m@block
+vMCell
+R54
+!i10b 1
+!s100 5HX04_47Gh?nV<MenNBLf2
+R0
+I2m:KZ_9;1LBQh7JUe0Ph_0
+R1
+R22
+R3
+R55
+R56
+!i122 173
+L0 18 5
+R5
+r1
+!s85 0
+31
+R57
+R58
+R59
+!i113 1
+R7
+R8
+n@m@cell
+vMDA_DA_Cache
+R9
+!i10b 1
+!s100 n3IYl^=eon:TLnGm53gei3
+R0
+I@:d@24IMbW?lF03_l:3362
+R1
+R2
+w1734302167
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Cache_MDA_DA.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Cache_MDA_DA.v
+!i122 423
+L0 5 140
+R5
+r1
+!s85 0
+31
+R29
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Cache_MDA_DA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Cache_MDA_DA.v|
+!i113 1
+R7
+R8
+n@m@d@a_@d@a_@cache
+vMEM_WB
+R33
+!i10b 1
+!s100 >adzHH0An]<R<2SX1WPbN3
+R0
+IgCCfgm@I_c48SWMk7B@n:2
+R1
+R2
+R3
+R50
+R51
+!i122 440
+L0 142 33
+R5
+r1
+!s85 0
+31
+R26
+R52
+R53
+!i113 1
+R7
+R8
+n@m@e@m_@w@b
+vmemory4c
+R48
+!i10b 1
+!s100 :IneNZ`?EDhT?V5@8CHa71
+R0
+IQ=3mgf`[_3j?5`^AH;2im2
+R1
+R2
+w1734307434
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/memory4c.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/memory4c.v
+!i122 434
+L0 27 59
+R5
+r1
+!s85 0
+31
+R49
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/memory4c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/memory4c.v|
+!i113 1
+R7
+R8
+vmetadata_way_array
+Z60 !s110 1734307457
+!i10b 1
+!s100 269o=8M2_eQBAK=0GnTh:3
+R0
+Il_zzPBLH9NBBH>@eNFi3Y3
+R1
+R2
+R45
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/metadata_way_array.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/metadata_way_array.v
+!i122 435
+L0 10 35
+R5
+r1
+!s85 0
+31
+Z61 !s108 1734307457.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/metadata_way_array.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/metadata_way_array.v|
+!i113 1
+R7
+R8
+vMetaDataArray
+R54
+!i10b 1
+!s100 XdNgmUi5dBj9jNmNh?PMZ3
+R0
+IBd@3U54Ih41ZK:M?lXY9a3
+R1
+R22
+R3
+R55
+R56
+!i122 173
+L0 8 4
+R5
+r1
+!s85 0
+31
+R57
+R58
+R59
+!i113 1
+R7
+R8
+n@meta@data@array
+vPADDSB
+R23
+!i10b 1
+!s100 H2EF<XDn_ecj=0jjHiNn20
+R0
+IcCN3=dKfC@z;6:f8HHccI0
+R1
+R2
+R3
+R24
+R25
+!i122 437
+L0 2 19
+R5
+r1
+!s85 0
+31
+R26
+R27
+R28
+!i113 1
+R7
+R8
+n@p@a@d@d@s@b
+vphase3_cpu_tb
+R23
+!i10b 1
+!s100 V[V2UhF]ieY]Bn_W]]DOX0
+R0
+I?h9zl9?MHB0MH@KEHz>9G0
+R1
+R2
+w1734297424
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/phase3_cpu_tb.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/phase3_cpu_tb.v
+!i122 439
+L0 2 53
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/phase3_cpu_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/phase3_cpu_tb.v|
+!i113 1
+R7
+R8
+vReadDecoder_4_16
+R33
+!i10b 1
+!s100 :<DebcXJ3K3NH3MHfN]b91
+R0
+Ibl6Pn^h[=d;18T@OTeIY;0
+R1
+R2
+R3
+R34
+R35
+!i122 442
+L0 43 20
+R5
+r1
+!s85 0
+31
+R36
+R37
+R38
+!i113 1
+R7
+R8
+n@read@decoder_4_16
+vRED
+R33
+!i10b 1
+!s100 26ZFd]]LcIf=ZKNCZFMm32
+R0
+I]08=cL3NcS?IP[N9[DSB13
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/RED.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/RED.v
+!i122 441
+L0 1 32
+R5
+r1
+!s85 0
+31
+R36
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/RED.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/RED.v|
+!i113 1
+R7
+R8
+n@r@e@d
+vRegister
+R33
+!i10b 1
+!s100 5<1?UH>EmbjQ]g@Ti938h2
+R0
+IAzW^fXSgBzcIQ155fiI2g3
+R1
+R2
+R3
+R34
+R35
+!i122 442
+L0 106 28
+R5
+r1
+!s85 0
+31
+R36
+R37
+R38
+!i113 1
+R7
+R8
+n@register
+vRegisterFile
+R33
+!i10b 1
+!s100 z[bDMicglRM3>4:m8HO^B2
+R0
+I6:9>A2DZ2U=CgiGACHfDa0
+R1
+R2
+R3
+R34
+R35
+!i122 442
+L0 2 38
+R5
+r1
+!s85 0
+31
+R36
+R37
+R38
+!i113 1
+R7
+R8
+n@register@file
+vShifter_16bit
+R33
+!i10b 1
+!s100 ki_LR_8<4KeUi4ef[o>_H3
+R0
+IE<0J2b6B?`ZG7g07U^S283
+R1
+R2
+w1734298257
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter.v
+!i122 443
+L0 1 33
+R5
+r1
+!s85 0
+31
+R36
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter.v|
+!i113 1
+R7
+R8
+n@shifter_16bit
+vShifter_1_bit_3_1
+R33
+!i10b 1
+!s100 ]nUPiK5JACIlifnnRc1Hg2
+R0
+ISI9`n=CP]2CAHaG<AzM4G1
+R1
+R2
+Z62 w1734298282
+Z63 8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Shifter_16bit.v
+Z64 FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Shifter_16bit.v
+!i122 444
+L0 107 27
+R5
+r1
+!s85 0
+31
+R36
+Z65 !s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Shifter_16bit.v|
+Z66 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/Shifter_16bit.v|
+!i113 1
+R7
+R8
+n@shifter_1_bit_3_1
+vShifter_2_bit_3_1
+R33
+!i10b 1
+!s100 QkdKR22GLckKnf]kzSjck0
+R0
+I0eWTC<jo8:bnEE6_YCTnc3
+R1
+R2
+R62
+R63
+R64
+!i122 444
+L0 78 27
+R5
+r1
+!s85 0
+31
+R36
+R65
+R66
+!i113 1
+R7
+R8
+n@shifter_2_bit_3_1
+vShifter_4_bit_3_1
+R33
+!i10b 1
+!s100 YGb?one1Tllg?@[UB5Z8a0
+R0
+IKg19mbAcT3]T@C^@EY?F21
+R1
+R2
+R62
+R63
+R64
+!i122 444
+L0 50 26
+R5
+r1
+!s85 0
+31
+R36
+R65
+R66
+!i113 1
+R7
+R8
+n@shifter_4_bit_3_1
+vShifter_64bit
+R60
+!i10b 1
+!s100 ?D3`10K]^NUo0WSD]RBz>1
+R0
+I@Ro^@k3<CTLJXBK[RHmjI3
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/one_hot.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/one_hot.v
+!i122 436
+L0 4 17
+R5
+r1
+!s85 0
+31
+R61
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/one_hot.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/one_hot.v|
+!i113 1
+R7
+R8
+n@shifter_64bit
+vShifter_8_bit_3_1
+R33
+!i10b 1
+!s100 Jh1OO`iRmdK`hCX[c?:bz2
+R0
+I@?TG5WC1PHP^X9ZdJhDB90
+R1
+R2
+R62
+R63
+R64
+!i122 444
+L0 21 27
+R5
+r1
+!s85 0
+31
+R36
+R65
+R66
+!i113 1
+R7
+R8
+n@shifter_8_bit_3_1
+vshifter_ror
+!s110 1734307460
+!i10b 1
+!s100 8lO:TWTCPCGg^e8h[7EZg2
+R0
+IAOXYWez=9i9<Tz?cAEU=]2
+R1
+R2
+R31
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_ror.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_ror.v
+!i122 445
+Z67 L0 2 67
+R5
+r1
+!s85 0
+31
+R36
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_ror.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_ror.v|
+!i113 1
+R7
+R8
+vshifter_sll
+!s110 1734307462
+!i10b 1
+!s100 GGdWRbR`W[]XI>aeGeRH93
+R0
+I0A9F9KKl6lUIMZ`miaV@[2
+R1
+R2
+R31
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sll.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sll.v
+!i122 446
+L0 1 67
+R5
+r1
+!s85 0
+31
+!s108 1734307461.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sll.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sll.v|
+!i113 1
+R7
+R8
+vshifter_sra
+!s110 1734307479
+!i10b 1
+!s100 koSc7SK`aMPc?^kn?aB2d3
+R0
+IhKhFk]oGLD^@^[]j:6Qkn2
+R1
+R2
+R31
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sra.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sra.v
+!i122 447
+R67
+R5
+r1
+!s85 0
+31
+!s108 1734307479.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sra.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/shifter_sra.v|
+!i113 1
+R7
+R8
+vwisc_trace_p3
+Z68 !s110 1734307494
+!i10b 1
+!s100 f5@]@;LE=03FOifW[0XOi3
+R0
+IZFY^K<O>;kk0U`kim3[j33
+R1
+R2
+w1734307241
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/wisc_trace_p3.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/wisc_trace_p3.v
+!i122 448
+L0 3 113
+R5
+r1
+!s85 0
+31
+Z69 !s108 1734307494.000000
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/wisc_trace_p3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/wisc_trace_p3.v|
+!i113 1
+R7
+R8
+vword_decoder
+R68
+!i10b 1
+!s100 TOROkg[g;Q`iW2dP4lSJf1
+R0
+Im9iEPdnEdgbzPVRj61l3=1
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/word_decoder.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/word_decoder.v
+!i122 449
+L0 1 19
+R5
+r1
+!s85 0
+31
+R69
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/word_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/word_decoder.v|
+!i113 1
+R7
+R8
+vWriteDecoder_4_16
+R33
+!i10b 1
+!s100 dRI^[HeMnl;1T<en7aWNY0
+R0
+INHIKfzzQOPei>IF7>APlQ2
+R1
+R2
+R3
+R34
+R35
+!i122 442
+L0 65 21
+R5
+r1
+!s85 0
+31
+R36
+R37
+R38
+!i113 1
+R7
+R8
+n@write@decoder_4_16
+vxor_16bit
+R30
+!i10b 1
+!s100 VEg[khKI=cZz9Z9e@iX3G1
+R0
+I3WW;VIHCdS]BP32C7G_4I2
+R1
+R2
+R3
+8C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/XOR.v
+FC:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/XOR.v
+!i122 450
+L0 1 7
+R5
+r1
+!s85 0
+31
+R32
+!s107 C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/XOR.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/austin james/Desktop/Test_Laytest/project-phase3-env/design/XOR.v|
+!i113 1
+R7
+R8

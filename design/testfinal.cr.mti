@@ -1,0 +1,227 @@
+{C:/Users/austin james/Desktop/Phase3_latest/one_hot.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/one_hot.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Shifter_64bit
+
+Top level modules:
+	Shifter_64bit
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/adder4bit+tb.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/adder4bit+tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_1bit
+-- Compiling module adder_4bit_josh
+
+Top level modules:
+	adder_4bit_josh
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/pipelining.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/pipelining.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dflipflop_4bit
+-- Compiling module dflipflop_3bit
+-- Compiling module IF_ID
+-- Compiling module ID_EX
+-- Compiling module EX_MEM
+-- Compiling module MEM_WB
+
+Top level modules:
+	IF_ID
+	ID_EX
+	EX_MEM
+	MEM_WB
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/cache_word.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/cache_word.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cache_word
+
+Top level modules:
+	cache_word
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/phase3_cpu_tb.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/phase3_cpu_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module phase3_cpu_tb
+
+Top level modules:
+	phase3_cpu_tb
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/memory4c.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/memory4c.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module memory4c
+
+Top level modules:
+	memory4c
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/dff.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/dff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/XOR.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/XOR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module xor_16bit
+
+Top level modules:
+	xor_16bit
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/HDU.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/HDU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module HDU
+
+Top level modules:
+	HDU
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/Cache_MDA_DA.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/Cache_MDA_DA.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MDA_DA_Cache
+
+Top level modules:
+	MDA_DA_Cache
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/cpu_two.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/cpu_two.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cpu_two
+
+Top level modules:
+	cpu_two
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/Shifter_16bit.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/Shifter_16bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Shifter_16bit
+-- Compiling module Shifter_8_bit_3_1
+-- Compiling module Shifter_4_bit_3_1
+-- Compiling module Shifter_2_bit_3_1
+-- Compiling module Shifter_1_bit_3_1
+
+Top level modules:
+	Shifter_16bit
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/forwarding_unit.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/forwarding_unit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module forwarding_unit
+
+Top level modules:
+	forwarding_unit
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/ALU.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/ALU.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/cache_miss_controller.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/cache_miss_controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cache_fill_FSM
+
+Top level modules:
+	cache_fill_FSM
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/RED.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/RED.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RED
+
+Top level modules:
+	RED
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/cache_cell.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/cache_cell.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cache_cell
+
+Top level modules:
+	cache_cell
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/Flags.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/Flags.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Flags
+
+Top level modules:
+	Flags
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/cla_16bit.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/cla_16bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cla_16bit
+-- Compiling module adder_4bit
+-- Compiling module gen_prop
+
+Top level modules:
+	cla_16bit
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/data_set.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/data_set.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_set
+
+Top level modules:
+	data_set
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/wisc_trace_p3.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/wisc_trace_p3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wisc_trace_p3
+
+Top level modules:
+	wisc_trace_p3
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/regfile.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/regfile.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RegisterFile
+-- Compiling module ReadDecoder_4_16
+-- Compiling module WriteDecoder_4_16
+-- Compiling module BitCell
+-- Compiling module Register
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/PADDSB.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/PADDSB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PADDSB
+-- Compiling module full_rippleadder_1bit
+-- Compiling module addsub_4bit_ripple
+
+Top level modules:
+	PADDSB
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/branch_control.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/branch_control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module branch_control
+
+Top level modules:
+	branch_control
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/pc_register.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/pc_register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dflipflop_16bit
+
+Top level modules:
+	dflipflop_16bit
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/metadata_way_array.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/metadata_way_array.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module metadata_way_array
+
+Top level modules:
+	metadata_way_array
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/Adder.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/Adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Adder_16bit
+-- Compiling module adder_4bit
+-- Compiling module gen_prop
+
+Top level modules:
+	Adder_16bit
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/data_way_array.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/data_way_array.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_way_array
+
+Top level modules:
+	data_way_array
+
+} {} {}} {C:/Users/austin james/Desktop/Phase3_latest/word_decoder.v} {1 {vlog -work work -stats=none {C:/Users/austin james/Desktop/Phase3_latest/word_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module word_decoder
+
+Top level modules:
+	word_decoder
+
+} {} {}}

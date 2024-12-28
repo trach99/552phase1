@@ -1,0 +1,13 @@
+Simulation Environment Adjustments:
+Initially Icarus Verilog was used for simulation. However, some compilation issues were encountered, which prevented successful execution.
+As a result, the simulation was directly run using ModelSim, bypassing the compilation errors.
+The simulation outputs have been stored in the Outputs folder for reference.
+
+Metadata Cache Array Modifications:
+A slight modification was made to the Metadata Cache Array logic to properly handle the Least Recently Used (LRU) bit for both cache ways. 
+This is implemented in the file Cache_MDA_DA.v.
+
+The first cache_word instance handles the tag and validity bits. It takes the lower 7 bits of data_in and outputs the lower 7 bits of data_out.
+LRU: The second cache_word instance handles the LRU bit. It takes the highest bit of data_in and outputs the highest bit of data_out.
+Control Signals: 
+The wen signal controls writes for the tag and validity bits, while the lru_en signal specifically controls updates to the LRU bit.
